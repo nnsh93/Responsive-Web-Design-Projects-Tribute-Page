@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#img-div {
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+#tribute-info {
+    max-width: 550px;
+    text-align: left;
+    margin: 20px auto;
+}
+
+h2 {
+    margin: 20px;
+    text-align: center;
+}
+
+li {
+    margin: 20px;
+    line-height: 1.6em;
+}
+
+
